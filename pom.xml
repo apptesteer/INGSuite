@@ -67,8 +67,8 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<name>ING_Suite</name>
-			<url>http://13.233.244.181:8081/repository/ING-SUITE/</url>
+			<name>maven-test</name>
+			<url>http://34.236.242.211:8081/repository/maven-test/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
