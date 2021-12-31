@@ -73,7 +73,7 @@
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>ISmart-Snap</name>
-			<url>http://65.0.181.119/:8081/repository/maven-snapshots/</url>
+			<url>http://65.0.181.119:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
