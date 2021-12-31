@@ -68,12 +68,12 @@
 		<repository>
 			<id>nexus</id>
 			<name>maven-test</name>
-			<url>http://34.236.242.211:8081/repository/maven-test/</url>
+			<url>http://3.110.54.236:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>ISmart-Snap</name>
-			<url>http://13.233.244.181:8081/repository/ING-SUITE-SNAPSHOT/</url>
+			<url>http://3.110.54.236:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
